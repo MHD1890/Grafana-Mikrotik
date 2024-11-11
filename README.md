@@ -20,7 +20,7 @@ The project offers multiple [docker compose configurations](https://github.com/a
 ### Install & Getting Started:
  - Clone this repository (or download zip with wget)
 ```
-git clone https://github.com/akpw/mktxp-stack.git
+https://github.com/MHD1890/Grafana-Mikrotik
 cd mktxp-stack
 ```
 
